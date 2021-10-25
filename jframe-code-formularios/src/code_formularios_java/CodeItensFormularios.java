@@ -70,12 +70,12 @@ public static void main(String[] args) {
 		JTextArea textArea = new JTextArea();
 		textArea.setBounds(10, 360, 200, 150);
 		
-		JOptionPane.showMessageDialog(null, " jframe Java para criação de formulários");	
+		JOptionPane.showMessageDialog(null, " JFrame Java para criação de formulários");	
 		
 		JScrollBar scrollBar = new JScrollBar(JScrollBar.HORIZONTAL, 50, 1, 0, 100);
 		scrollBar.setBounds(10, 540, 300, 15);
 		
-		//JProgressBar progressBar = new JProgressBar(JProgressBar.HORIZONTAL, 1, 100);
+		//nextJProgressBar progressBar = new JProgressBar(JProgressBar.HORIZONTAL, 1, 100);
 		
 		
 		frame.add(label);
