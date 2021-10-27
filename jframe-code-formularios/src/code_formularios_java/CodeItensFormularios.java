@@ -75,7 +75,7 @@ public static void main(String[] args) {
 		JScrollBar scrollBar = new JScrollBar(JScrollBar.HORIZONTAL, 50, 1, 0, 100);
 		scrollBar.setBounds(10, 540, 300, 15);
 		
-		//nextJProgressBar progressBar = new JProgressBar(JProgressBar.HORIZONTAL, 1, 100);
+		//nexxtJProgressBar progressBar = new JProgressBar(JProgressBar.HORIZONTAL, 1, 100);
 		
 		
 		frame.add(label);
@@ -93,4 +93,4 @@ public static void main(String[] args) {
 		frame.setVisible(true);
 	}
 
-}//end
+}//end code
