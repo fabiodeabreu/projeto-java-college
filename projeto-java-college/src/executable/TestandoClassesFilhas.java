@@ -1,4 +1,4 @@
-package Executable;
+package executable;
 
 import general.Aluno;
 import general.Diretor;
