@@ -1,6 +1,6 @@
 package assistants;
 
-import interfaces_package.PermitirAcesso;
+import interfaces.PermitirAcesso;
 
 /*Somente receber alguém que tenha o contrato da interface-PermitirAcesso e chamar autenticar*/
 

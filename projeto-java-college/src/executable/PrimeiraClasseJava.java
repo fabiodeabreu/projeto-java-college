@@ -13,7 +13,7 @@ import assistants.FuncaoAutenticacao;
 import general.Aluno;
 import general.Disciplina;
 import general.Secretario;
-import interfaces_package.PermitirAcesso;
+import interfaces.PermitirAcesso;
 import statics.StatusAluno;
 
 public class PrimeiraClasseJava {

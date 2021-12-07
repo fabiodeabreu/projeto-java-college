@@ -1,6 +1,6 @@
 package general;
 
-import interfaces_package.PermitirAcesso;
+import interfaces.PermitirAcesso;
 
 public class Secretario extends Pessoa implements PermitirAcesso {
 

@@ -1,4 +1,4 @@
-package interfaces_package;
+package interfaces;
 
 
 public interface PermitirAcesso {
