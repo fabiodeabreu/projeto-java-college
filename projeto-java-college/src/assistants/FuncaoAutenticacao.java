@@ -2,7 +2,7 @@ package assistants;
 
 import interfaces.PermitirAcesso;
 
-/*Somente receber alguém que tenha o contrato da interface-PermitirAcesso e chamar autenticar*/
+/*Somente receber alguem que tenha o contrato de interface-PermitirAcesso e chamar autenticar*/
 
 public class FuncaoAutenticacao {
 	
